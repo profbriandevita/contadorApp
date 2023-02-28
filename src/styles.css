@@ -1,0 +1,16 @@
+.mi-div {
+    color: red;
+    font-weight: bold;
+}
+
+html, body {
+    background-color: #212121;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.2rem;
+    padding: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
